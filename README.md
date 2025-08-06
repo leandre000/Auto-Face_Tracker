@@ -1,3 +1,8 @@
-# Auto Face Tracker
+# 🤖 Auto Face Tracker
 
-Project initialization
+Face tracking with OpenCV, MediaPipe & Arduino
+
+## Features
+- Real-time tracking
+- Arduino control
+- Simulation mode
