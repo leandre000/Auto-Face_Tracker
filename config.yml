@@ -1,0 +1,9 @@
+camera:
+  index: 0
+  width: 640
+  height: 480
+tracking:
+  dead_zone: 50
+  max_steps: 200
+serial:
+  baudrate: 115200
